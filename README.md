@@ -29,6 +29,6 @@
 
 ## Flutter
 
-[![React Native Keyboard Manager](https://github-readme-stats.vercel.app/api/pin/?username=JMaxGuezzo&repo=react-native-keyboard-manager&theme=darcula)](https://github.com/JMaxGuezzo/app_calculadora)
+[![React Native Keyboard Manager](https://github-readme-stats.vercel.app/api/pin/?username=JMaxGuezzo&repo=app_calculadora&theme=darcula)](https://github.com/JMaxGuezzo/app_calculadora)
  
 </div>
